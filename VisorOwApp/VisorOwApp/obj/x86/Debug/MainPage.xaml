@@ -20,7 +20,7 @@
         <TextBlock Grid.Column="2" HorizontalAlignment="Left" Margin="328,38,0,0" Text="Visor de Videos 360º" TextWrapping="Wrap" VerticalAlignment="Top" Height="55" Width="281" FontFamily="Constantia" FontSize="20" FontWeight="Bold" FontStyle="Italic"/>
 
         <MediaPlayerElement x:ConnectionId='2' Name="Display" AreTransportControlsEnabled="True"
-AutoPlay="True"                                       RenderTransformOrigin="0.5,0.5" Margin="-3,83,215,92" UseLayoutRounding="False" d:LayoutRounding="Auto" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+AutoPlay="True"                                       RenderTransformOrigin="0.5,0.5" Margin="-3,83,259,92" UseLayoutRounding="False" d:LayoutRounding="Auto" Grid.Column="2">
             <MediaPlayerElement.RenderTransform>
                 <CompositeTransform Rotation="0.14"/>
             </MediaPlayerElement.RenderTransform>

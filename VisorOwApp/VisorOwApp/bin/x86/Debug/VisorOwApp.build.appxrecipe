@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>a0555391-15a8-4c56-8b5a-f02523306f8f</PackageIdentityName>
     <PackageIdentityPublisher>CN=Jeffri</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.exe">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.exe">
       <PackagePath>entrypoint\VisorOwApp.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -373,52 +373,52 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.xr.xml">
       <PackagePath>VisorOwApp.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\VisorOwApp.exe">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\VisorOwApp.exe">
       <PackagePath>VisorOwApp.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

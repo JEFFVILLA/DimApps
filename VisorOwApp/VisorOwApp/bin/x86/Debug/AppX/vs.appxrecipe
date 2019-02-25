@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>a0555391-15a8-4c56-8b5a-f02523306f8f</PackageIdentityName>
     <PackageIdentityPublisher>CN=Jeffri</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>F8EFF6B0AC13825734F1B6387FBFB8680ED575E0D11AEAD06F5F5168BB9D0CB5</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>a0555391-15a8-4c56-8b5a-f02523306f8f_1.0.0.0_x86__sbxwy7rnxqa7y</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a0555391-15a8-4c56-8b5a-f02523306f8f_sbxwy7rnxqa7y!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-01-23T15:41:29.982</Modified>
+      <Modified>2019-01-23T17:01:33.766</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.exe">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.exe">
       <PackagePath>entrypoint\VisorOwApp.exe</PackagePath>
-      <Modified>2019-01-23T15:41:29.644</Modified>
+      <Modified>2019-01-23T17:01:31.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -498,67 +498,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-01-22T19:19:53.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2019-01-09T15:04:41.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-01-09T15:04:41.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-01-09T15:04:41.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-01-09T15:04:41.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-01-09T15:04:41.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-01-09T15:04:41.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-01-09T15:04:41.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\VisorOwApp.xr.xml">
       <PackagePath>VisorOwApp.xr.xml</PackagePath>
-      <Modified>2019-01-23T15:41:29.497</Modified>
+      <Modified>2019-01-23T17:01:31.190</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-01-23T15:41:29.514</Modified>
+      <Modified>2019-01-23T17:01:31.239</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-01-23T15:41:29.514</Modified>
+      <Modified>2019-01-23T17:01:31.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T23:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-01-22T19:30:28.660</Modified>
+      <Modified>2019-01-23T17:01:33.118</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\VisorOwApp.exe">
+    <AppxPackagedFile Include="C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\bin\x86\Debug\Core\VisorOwApp.exe">
       <PackagePath>VisorOwApp.exe</PackagePath>
-      <Modified>2019-01-23T15:41:29.967</Modified>
+      <Modified>2019-01-23T17:01:33.747</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

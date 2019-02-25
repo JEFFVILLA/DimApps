@@ -27915,11 +27915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeffri\\source\\repos\\VisorOwApp\\VisorOwApp\\VisorOwApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jeffri\\source\\repos\\DimApps\\VisorOwApp\\VisorOwApp\\VisorOwApp.csproj",
       "projectName": "VisorOwApp",
-      "projectPath": "C:\\Users\\Jeffri\\source\\repos\\VisorOwApp\\VisorOwApp\\VisorOwApp.csproj",
+      "projectPath": "C:\\Users\\Jeffri\\source\\repos\\DimApps\\VisorOwApp\\VisorOwApp\\VisorOwApp.csproj",
       "packagesPath": "C:\\Users\\Jeffri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeffri\\source\\repos\\VisorOwApp\\VisorOwApp\\obj\\",
+      "outputPath": "C:\\Users\\Jeffri\\source\\repos\\DimApps\\VisorOwApp\\VisorOwApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

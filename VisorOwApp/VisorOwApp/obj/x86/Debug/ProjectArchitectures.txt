@@ -1,1 +1,1 @@
-C:\Users\Jeffri\source\repos\VisorOwApp\VisorOwApp\VisorOwApp.csproj;x86
+C:\Users\Jeffri\source\repos\DimApps\VisorOwApp\VisorOwApp\VisorOwApp.csproj;x86
